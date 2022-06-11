@@ -169,12 +169,12 @@ a {
 }
 
 .address-location {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 1.71;
-    letter-spacing: 0.03em;
-    color: var(--primary-title-color);
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: var(--primary-title-color);
 }
 
 .logo-link-bottom {
@@ -183,11 +183,6 @@ a {
   line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--primary-title-color);
-}
-
-.logo-link-bottom:hover,
-.logo-link-bottom:focus {
-  color: var(--accent-color);
 }
 
 .mail-link-bottom {
@@ -206,10 +201,10 @@ a {
   color: var(--footer-link-color);
 }
 
-.footer-address {
-    font-style: normal;
-    font-size: 14px;
-    line-height: 1.71;
-    letter-spacing: 0.03em;
-    color: var(--footer-link-color);
-}
+/* .footer-address {
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: var(--footer-link-color);
+} */
