@@ -8,6 +8,7 @@
 }
 
 body {
+    /* font-family: Raleway, sans-serif; */
     font-family: 'Roboto', sans-serif;
     color: #757575;
 }
@@ -42,10 +43,40 @@ a {
     color: var(--accent color);
 }
 
+.current {
+    color: var(--accent-color)
+}
 
 /* Logo main - Шапка сайта */
 
-/* footer */
+.hero-title {
+    background: #2f303a;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--primary-title-color);
+}
+
+/* Cap Section - Секция - Эффективные решения для вашего бизнеса */
+
+.button {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.06em;
+
+    cursor: pointer;
+    color: var(--primary-title-color);
+
+    background-color: #2196f3;
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
 
 
 
