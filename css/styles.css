@@ -22,8 +22,20 @@ a {
 
 /* header */
 
+.logo-title {
+    font-family: Raleway;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: var(--accent-color);
+}
 
-
+.logo-link {
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 00.03em;
+    color: var(--title-color);
+}
 
 
 /* Logo main - Шапка сайта */
