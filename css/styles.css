@@ -37,5 +37,15 @@ a {
     color: var(--title-color);
 }
 
+.logo-link:hover,
+.logo-link:focus {
+    color: var(--accent color);
+}
+
 
 /* Logo main - Шапка сайта */
+
+/* footer */
+
+
+
