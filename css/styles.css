@@ -1,10 +1,15 @@
 :root {
-     --primary-text-color: #212121;
-
+     --header-text-color: #212121;
+     --main-text-color:#757575;
+     --primary-title-color: #FFFFFF;
+     --accent-color: #2196f2;
+     --title-color: #000000;
+     --footer-link-color: rgba(255, 255, 255, 0.6);
 }
 
 body {
     font-family: 'Roboto', sans-serif;
+    color: #757575;
 }
 
 li {
@@ -16,4 +21,9 @@ a {
 }
 
 /* header */
+
+
+
+
+
 /* Logo main - Шапка сайта */
