@@ -1,8 +1,11 @@
 :root {
+  /* Белый цвет */
   --primary-title-color: #FFFFFF;
+  /* Второстепенный (вторичный) цвет фона */
   --header-text-color: #2F303A;
   /* Цвет основного текста */
   --main-text-color: #757575;
+  /* Акцент */
   --accent-color: #2196F3;
   --title-color: #212121;
   --contacts-color: rgba(255, 255, 255, 0.6);
