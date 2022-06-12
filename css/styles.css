@@ -168,6 +168,10 @@ body {
   letter-spacing: 0.03em;
 }
 
+.team {
+  background-color: var(--filter-button-background-color);
+}
+
 /* Подвал страницы  */
 
 .footer {
