@@ -46,7 +46,7 @@ body {
 }
 
 .logo-dark {
-  color: var(--primary-title-color);
+  color: var(--header-text-color);
 }
 
 .logo-light {
