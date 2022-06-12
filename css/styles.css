@@ -1,12 +1,13 @@
 :root {
-  --primary-title-color: #ffffff;
+  --primary-title-color: #FFFFFF;
   --header-text-color: #212121;
+  /* Цвет основного текста */
   --main-text-color: #757575;
-  --accent-color: #2196f2;
+  --accent-color: #2196F3;
   --title-color: #000000;
   --contacts-color: rgba(255, 255, 255, 0.6);
-  --button-hover-color: #188ce8;
-  --filter-button-background-color: #f5f4fa;
+  --button-hover-color: #188CE8;
+  --filter-button-background-color: #F5F4FA;
 }
 
 body {
@@ -190,6 +191,16 @@ body {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--contacts-color);
+}
+
+.address-location:hover,
+.address-location link:focus {
+  color: var(--accent-color);
+}
+
+.address-contacts:hover,
+.address-contacts link:focus {
+  color: var(--accent-color);
 }
 
 /* Portfolio - Портфолио  */
