@@ -60,7 +60,7 @@ body {
   line-height: 1.17;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--header-text-color);
+  color: var(--title-color);
 }
 
 .pointer {
@@ -156,7 +156,7 @@ body {
   line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--header-text-color);
+  color: var(--title-color);
 }
 
 /* Our team section - Секция - Наша команда */
@@ -231,7 +231,7 @@ body {
   line-height: 2;
   text-align: center;
   letter-spacing: 0.06em;
-  color: var(--header-text-color);
+  color: var(--title-color);
 }
 
 .works-text {
