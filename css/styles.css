@@ -1,10 +1,10 @@
 :root {
   --primary-title-color: #FFFFFF;
-  --header-text-color: #212121;
+  --header-text-color: #2F303A;
   /* Цвет основного текста */
   --main-text-color: #757575;
   --accent-color: #2196F3;
-  --title-color: #000000;
+  --title-color: #212121;
   --contacts-color: rgba(255, 255, 255, 0.6);
   --button-hover-color: #188CE8;
   --filter-button-background-color: #F5F4FA;
